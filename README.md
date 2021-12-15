@@ -1,6 +1,6 @@
 <div align="center">
-    <h1>Public APIs</h1>
-    <i>A collective list of free APIs for use in software and web development</i>
+    <h1>Data science folder</h1>
+    <i>A collection of projects to display my skills</i>
 </div>
 
 <br />
