@@ -31,3 +31,8 @@ Name | Description | Method |
 |---|---|---|---|---|
 | [Airbnb](https://github.com/JojoRavail/Data_Science/tree/main/Airbnb) | How airbnb influence our neighborhood | Python Pandas, Matplotlib |
 
+| [Airbnb](https://github.com/JojoRavail/Data_Science/tree/main/Airbnb) | How airbnb influence our neighborhood | Python Pandas, Matplotlib |
+
+| [Airbnb](https://github.com/JojoRavail/Data_Science/tree/main/Airbnb) | How airbnb influence our neighborhood | Python Pandas, Matplotlib |
+
+
