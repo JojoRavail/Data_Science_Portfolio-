@@ -5,21 +5,7 @@
 
 <br />
 
-<div align="center">
-    <sup>Status</sup>
-    <br />
-    <a href="https://github.com/public-apis/public-apis/actions?query=workflow%3A%22Run+tests%22">
-        <img alt="Run tests" src="https://github.com/public-apis/public-apis/workflows/Run%20tests/badge.svg" />
-    </a>
-    <a href="https://github.com/public-apis/public-apis/actions?query=workflow%3A%22Validate+links%22">
-        <img alt="Validate links" src="https://github.com/public-apis/public-apis/workflows/Validate%20links/badge.svg?branch=master" />
-    </a>
-    <a href="https://github.com/public-apis/public-apis">
-        <img alt="Number of APIs" src="https://img.shields.io/badge/dynamic/json?url=https://api.publicapis.org/entries&label=Number%20of%20APIs&query=$.count&color=informational" />
-    </a>
-</div>
 
-<br />
 
 <div align="center">
     <sub>The Project</sub>
