@@ -36,11 +36,11 @@ Name | Description | Method |
 | [Airbnb](https://github.com/JojoRavail/Data_Science/tree/main/Airbnb) | How airbnb influence our neighborhood | Python Pandas, Matplotlib |
 
 
-Name | Description | Method | HTTPS | CORS |
+Name | Description | Method | HTTPS |
 |---|---|---|---|---|
-| [Airbnb](https://github.com/JojoRavail/Data_Science/tree/main/Airbnb) | Resource to help get pets adopted | `apiKey` | Yes | Yes |
-| [Axolotl](https://theaxolotlapi.netlify.app/) | Collection of axolotl pictures and facts | No | Yes | Yes |
-| [Cat Facts](https://alexwohlbruck.github.io/cat-facts/) | Daily cat facts | No | Yes | No |
-| [Cataas](https://cataas.com/) | Cat as a service (cats pictures and gifs) | No | Yes | No |
+| [Airbnb](https://github.com/JojoRavail/Data_Science/tree/main/Airbnb) | How airbnb influence our neighborhood | `apiKey` | Yes | 
+| [Axolotl](https://theaxolotlapi.netlify.app/) | Collection of axolotl pictures and facts | No | Yes | 
+| [Cat Facts](https://alexwohlbruck.github.io/cat-facts/) | Daily cat facts | No | Yes | 
+| [Cataas](https://cataas.com/) | Cat as a service (cats pictures and gifs) | No | Yes | 
 
 
