@@ -27,7 +27,7 @@
 <br />
 
 ### Projects
-API | Description | Auth | HTTPS | CORS |
+Name | Description | Method | HTTPS | CORS |
 |---|---|---|---|---|
 | [AdoptAPet](https://www.adoptapet.com/public/apis/pet_list.html) | Resource to help get pets adopted | `apiKey` | Yes | Yes |
 | [Axolotl](https://theaxolotlapi.netlify.app/) | Collection of axolotl pictures and facts | No | Yes | Yes |
