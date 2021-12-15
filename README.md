@@ -36,7 +36,7 @@ Name | Description | Method |
 | [Airbnb](https://github.com/JojoRavail/Data_Science/tree/main/Airbnb) | How airbnb influence our neighborhood | Python Pandas, Matplotlib |
 
 
-API | Description | Auth | HTTPS | CORS |
+Name | Description | Method | HTTPS | CORS |
 |---|---|---|---|---|
 | [Airbnb](https://github.com/JojoRavail/Data_Science/tree/main/Airbnb) | Resource to help get pets adopted | `apiKey` | Yes | Yes |
 | [Axolotl](https://theaxolotlapi.netlify.app/) | Collection of axolotl pictures and facts | No | Yes | Yes |
